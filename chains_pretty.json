@@ -22090,7 +22090,7 @@
   "chainId": 7865,
   "networkId": 7865,
   "icon": "power",
-  "status": "incubating",
+  "status": "active",
   "explorers": [{
     "name": "blockscout",
     "url": "https://explorer.powerloom.network",
