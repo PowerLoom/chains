@@ -4087,6 +4087,14 @@
     "format": "png"
   }]
 }, {
+  "name": "power",
+  "icons": [{
+    "url": "ipfs://bafkreiefnxjm4cj3sqiiwjlagp7o4rdo6yeej6qbmk3jlxnobk564g5mdy",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "novanetwork",
   "icons": [{
     "url": "ipfs://QmTTamJ55YGQwMboq4aqf3JjTEy5WDtjo4GBRQ5VdsWA6U",
